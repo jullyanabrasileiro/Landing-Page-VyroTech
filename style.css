@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+*{
+font-family: 'Open Sans', sans-serif ;
+}
+
+.bg-dark {
+    background-color: rgb(39, 32, 46) !important;
+}
+
+.btn-dark {
+    background-color: rgb(39, 32, 46) !important;
+}
+
+.btn-dark:hover {
+    background-color: rgb(31, 20, 41) !important;
+}
+
+.text-dark {
+    color: rgb(31, 20, 41) !important;
+}
+
+.accordion-button {
+    background-color: rgb(241, 238, 244) !important;
+}
+
+.accordion-button:not(.collapsed) {
+    color: rgb(31, 20, 41) !important;
+}
+
+.accordion-button:not(.collapsed)::after {
+    background-image:url(img/download\ \(1\).svg);
+}
