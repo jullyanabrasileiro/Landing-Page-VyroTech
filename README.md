@@ -1,6 +1,35 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jullyanabrasileiro&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jullyanabrasileiro&hide=contribs,prs)
+<div align="center">
+  
+  ![GitHub repo size](https://img.shields.io/github/repo-size/jullyanabrasileiro/landing-page-vyrotech)
+  ![GitHub stars](https://img.shields.io/github/stars/jullyanabrasileiro/landing-page-vyrotech?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/jullyanabrasileiro/landing-page-vyrotech?style=social)
 
+  <br />
+  <br />
 
-site is live at https://jullyanabrasileiro.github.io/landing-page-vyrotech/
+  <h2 align="center">VyroTech - Responsive Landing Page</h2>
 
+  Vyrotech is fully responsive landing page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+
+</div>
+
+<br />
+
+<div align="center">
+
+## site is live at https://jullyanabrasileiro.github.io/landing-page-vyrotech/
+</div>
+
+<div align="center">
+## 📱 &nbsp;Social Links
+<p align="center" style="background:yellow">
+<a href="https://www.behance.net/jullyanabrasileiro" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-jullyanabrasileiro-05122A?style=flat&logo=behance" alt="behance"/>  
+</a>
+<a href="https://www.linkedin.com/in/jullyana-brasileiro/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-jullyanabrasileiro-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/jullyanabrasileiro/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-jullyanabrasileiro-05122A?style=flat&logo=instagram" alt="instagram"/>
+
+</div>
