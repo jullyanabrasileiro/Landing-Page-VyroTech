@@ -13,11 +13,10 @@
 
 </div>
 
-<br />
-
 <div align="center">
 
-## site is live at https://jullyanabrasileiro.github.io/landing-page-vyrotech/
+## Site is live at https://jullyanabrasileiro.github.io/landing-page-vyrotech/
+<br/>
 </div>
 
 <div align="center">
