@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-## 📱 &nbsp;Social Links
+📱 &nbsp;Social Links
 <p align="center" style="background:yellow">
 <a href="https://www.behance.net/jullyanabrasileiro" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-jullyanabrasileiro-05122A?style=flat&logo=behance" alt="behance"/>  
